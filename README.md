@@ -15,14 +15,12 @@ jquery animated font icons
   
   Example:
   
-  <body>
-  
-    <span>  class="icon-motion-example icon-heritage-1"&gt;</span>\
-    
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" </script>
-	  <script src="icon.motion.min.js"></script>
-	  <script>
-	    $('.icon-motion-example').iconMotion();
-	  </script>
-  
-  <body>
+  <h2>Example:</h2>
+  <p>&lt; body &gt;</p>
+  <p>&lt; span &gt;  class="icon-motion-example icon-heritage-1"&gt;&lt;/span &gt;</p>
+  <p>&lt; script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" &gt; &lt; /script &gt;</p>
+  <p>&lt; script src="icon.motion.min.js">&lt; /script &gt;</p>
+  <p>&lt; script &gt;</p>
+  <p> $('.icon-motion-example').iconMotion(); </p>
+  <p>&lt; script &gt;</p>
+  <p>&lt; /body &gt;</p>
