@@ -1,7 +1,7 @@
 motion-icons
 ============
 
-jquery animated font icons
+<h2>Jquery Animated Font Icons</h2>
 
   1. Create element with your selector class for example "icon-motion-example" & add icon-<i>iconname</i>-1  where iconname is the icon you want to display
   
@@ -13,7 +13,6 @@ jquery animated font icons
   $('.icon-motion-example').iconMotion();
   
   
-  Example:
   
   <h2>Example:</h2>
   <p>&lt; body &gt;</p>
